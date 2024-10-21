@@ -1,4 +1,3 @@
-
 let url = window.location.href
 let swLocation = '/twitor_navegadores/sw.js'
 if(navigator.serviceWorker)
